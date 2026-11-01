@@ -1,0 +1,8 @@
+{
+  "name": "Hồ Sơ Số Di Sản Biểu Diễn Dân Gian Việt Nam",
+  "description": "Ứng dụng hồ sơ số và tra cứu chuẩn mực cho các loại hình nghệ thuật trình diễn dân gian Việt Nam, chuyên đề Nhập môn Múa rối nước, hỏi đáp di sản với AI có trích dẫn nguồn minh bạch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
